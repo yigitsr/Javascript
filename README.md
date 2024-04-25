@@ -1,12 +1,12 @@
 # Javascript
 
-# Advanced
+## Advanced
 * Closure 
 * Async / await
 * Promise / fetch
 
 
-# JS
+## JS
 * DOM Management
 * Selector
 * Create, remove, hide, show
@@ -14,7 +14,7 @@
 * CSS variables management
 * CSS class, style, attribute, property(set, get)
 
-# Array methods
+## Array methods
 * Split
 * Slice
 * Splice
